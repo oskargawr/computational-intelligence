@@ -1,0 +1,1 @@
+this is a repository for a university course called "Computional Intelligence". All the stuff is work from laboratories indcluding neural networks, aiori algorithm, swarm intelligence, regression models, object detection, opencv2, nltk, genetical algorithms and reinforcement learning.
